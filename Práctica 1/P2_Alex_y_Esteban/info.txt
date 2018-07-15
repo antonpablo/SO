@@ -1,0 +1,6 @@
+prueba1.txt
+21
+prueba2.txt
+31
+prueba3.txt
+10
